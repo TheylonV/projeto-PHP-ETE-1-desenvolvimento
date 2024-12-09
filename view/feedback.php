@@ -22,7 +22,7 @@
         <div class="container-body">
             <div class="container">
                 <div class="title">
-                    <h2>Feedback</h2>
+                    <h2>Sugestões</h2>
                 </div>
 
                 <form method="POST" action="#">
